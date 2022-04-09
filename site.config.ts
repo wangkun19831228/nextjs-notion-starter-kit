@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'jikei',
+  name: 'jikei ',
   domain: 'https://trusting-bucket-3f9.notion.site/jikei-c93f45c913c847b39004ae4fff40ec5c',
   author: 'KUNKUN',
 
