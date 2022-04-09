@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '滋庆留学',
-  domain: 'https://trusting-bucket-3f9.notion.site/1f8c35935b1949d48471da3fa3288ac3',
+  domain: 'https://www.notion.so/1f8c35935b1949d48471da3fa3288ac3',
   author: 'KUNKUN',
 
   // open graph metadata (optional)
