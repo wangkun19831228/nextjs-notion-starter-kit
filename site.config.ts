@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '1f8c35935b1949d48471da3fa3288ac3',
+  rootNotionPageId: 'jikei-c93f45c913c847b39004ae4fff40ec5c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '滋庆留学',
-  domain: 'https://trusting-bucket-3f9.notion.site/1f8c35935b1949d48471da3fa3288ac3',
+  name: 'jikei',
+  domain: 'https://trusting-bucket-3f9.notion.site/jikei-c93f45c913c847b39004ae4fff40ec5c',
   author: 'KUNKUN',
 
   // open graph metadata (optional)
