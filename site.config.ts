@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'jikei-c93f45c913c847b39004ae4fff40ec5c',
+  rootNotionPageId: 'jikei-b6b57ffecf81482eb9ce5f89214a92a4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'jikei',
-  domain: 'https://trusting-bucket-3f9.notion.site/jikei-c93f45c913c847b39004ae4fff40ec5c',
+  domain: 'https://trusting-bucket-3f9.notion.site/jikei-b6b57ffecf81482eb9ce5f89214a92a4',
   author: 'KUNKUN',
 
   // open graph metadata (optional)
