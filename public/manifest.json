@@ -3,17 +3,17 @@
   "short_name": "Starter Kit",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/cd000c1c6b9b0e7d69785c003849cadf.jpg",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/cd000c1c6b9b0e7d69785c003849cadf.jpg",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/cd000c1c6b9b0e7d69785c003849cadf.jpg",
       "type": "image/png",
       "sizes": "192x192"
     }
